@@ -14,7 +14,7 @@
 
 <text x="60" y="128" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="68" font-weight="700" fill="#ffffff" letter-spacing="-1">Arya Mulay</text>
 <rect x="62" y="150" width="0" height="4" rx="2" fill="url(#acc)"><animate attributeName="width" from="0" to="150" dur="1.2s" fill="freeze"/></rect>
-<g font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="22" fill="#c9d4ff"><text x="62" y="205" clip-path="url(#c0)">LLM systems, retrieval and evaluation</text><text x="62" y="205" clip-path="url(#c1)">Applied ML research at VIT and IIT Madras</text><text x="62" y="205" clip-path="url(#c2)">Now: quantum federated learning</text></g>
+<g font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="22" fill="#c9d4ff"><text x="62" y="205" clip-path="url(#c0)">LLM systems, retrieval and evaluation</text><text x="62" y="205" clip-path="url(#c1)">Applied ML research at VIT and IIT Madras</text><text x="62" y="205" clip-path="url(#c2)">Long-context reasoning for LLMs</text></g>
 <rect y="183" width="3" height="28" fill="#7ee0ff"><animate attributeName="x" values="62;556.2;556.2;62;62;609.2;609.2;62;62;476.8;476.8;62;62" keyTimes="0.0000;0.1167;0.2833;0.3167;0.3333;0.4500;0.6167;0.6500;0.6667;0.7833;0.9500;0.9833;1.0000" dur="12.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.9s" repeatCount="indefinite"/></rect>
 <text x="62" y="262" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#8090c8">B.Tech IT, VIT Vellore  ·  B.S. Data Science, IIT Madras  ·  2027</text>
 </g>
