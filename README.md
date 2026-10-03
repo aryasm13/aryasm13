@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Arya Mulay: LLM systems, retrieval and applied machine learning" width="100%">
+  <img src="./assets/header.svg" alt="Arya Mulay: machine learning, deep learning and LLM systems" width="100%">
 </p>
 
 <p align="center">
@@ -7,7 +7,9 @@
   <a href="mailto:aryasmulay@gmail.com"><img src="https://img.shields.io/badge/Email-141a33?style=for-the-badge&logo=gmail&logoColor=7ee0ff" alt="Email"></a>
 </p>
 
-I work on LLM systems, retrieval and applied machine learning. I like working on how AI systems behave, not just whether they run: how they retrieve, where they fail, and how to measure it.
+I build and study machine learning systems: deep learning models, LLM and retrieval pipelines, and data-driven analysis. I care about how a system behaves, not just whether it runs: where it fails and how to measure it.
+
+**Interests:** deep learning · NLP and LLMs · retrieval and knowledge graphs · speech and audio · data science
 
 ## Projects
 
